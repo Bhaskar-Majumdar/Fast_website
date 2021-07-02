@@ -1,0 +1,27 @@
+.fast{
+    background-color: aqua;
+    height: 25%;
+    width: 75%;
+    border: 5px solid rgb(167, 235, 11);
+    padding: 10px 40px;
+    margin: 2px;
+}
+.second{
+    background-color: aqua;
+    height: 100%;
+    width: 75%;
+    border: 5px solid rgb(167, 235, 11);
+    text-align:end;
+    padding: 20px 40px;
+    margin: 2px;
+}
+.image{
+    padding: 0px 2px;
+    border: 2px solid rgb(167, 235, 11);
+    border-radius: 80%;
+    float:left;
+    width:35%; 
+    height: 50%;
+    
+}
+  
