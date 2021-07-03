@@ -10,14 +10,14 @@
     background-color: aqua;
     height: 100%;
     width: 75%;
-    border: 5px solid rgb(167, 235, 11);
+    border: 5px solid rgb(89, 11, 235);
     text-align:end;
     padding: 20px 40px;
     margin: 2px;
 }
 .image{
     padding: 0px 2px;
-    border: 2px solid rgb(167, 235, 11);
+    border: 2px solid rgb(134, 11, 235);
     border-radius: 80%;
     float:left;
     width:35%; 
